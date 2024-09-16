@@ -1,6 +1,9 @@
-# Fake-Email
+# Fake Email
+
 You can create a fake name, email and password with this tool
-# Run Command
-*apt install python
+
+<h3> Run Command: </h3>
+
+*apt install python3
+
 *apt install git
-*git clone 
