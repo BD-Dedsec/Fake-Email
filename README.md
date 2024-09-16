@@ -15,3 +15,5 @@ You can create a fake name, email and password with this tool
 * pip install -r requirements.txt
 
 * python3 Fake.py
+
+* BD-Dedsec
